@@ -38,6 +38,10 @@ public class CursospringrestapiApplication implements WebMvcConfigurer {
 		 * #spring.datasource.hikari.maximum-pool-size= 40 #tempo ocioso para conexão
 		 * #spring.datasource.hikari.idle-timeout= 10000 #salvando dados no banco
 		 * automaticamente #spring.datasource.hikari.auto-commit= true
+		 * 
+		 * 
+		 * 
+		 * 
 		 */
 	}
 
